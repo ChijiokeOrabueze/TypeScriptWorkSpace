@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "item1",
+        "price": 10.99,
+        "url": "/images/real-estates-1.png"
+    },
+    {
+        "id": 2,
+        "name": "item2",
+        "price": 1199,
+        "url": "/images/real-estates-2.png"
+    },
+    {
+        "id": 3,
+        "name": "item3",
+        "price": 1.05,
+        "url": "/images/real-estates-3.png"
+    },
+    {
+        "id": 4,
+        "name": "item4",
+        "price": 12.43,
+        "url": "/images/real-estates-4.png"
+    }
+]
